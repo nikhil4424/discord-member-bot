@@ -8,21 +8,6 @@ This is a [Python](https://www.python.org)-based Discord selfbot using the `disc
 
 ### <strong>Using this on a user account is prohibited by the [Discord TOS](https://discord.com/terms) and can lead to your account getting banned in _very_ rare cases.</strong>
 
-<p float="left">
-  <img style="vertical-align: top;" src="https://discord.c99.nl/widget/theme-4/451627446941515817.png"/>
-  <img src="https://lanyard.cnrad.dev/api/1025245410224263258?theme=dark&bg=171515&borderRadius=5px&animated=true&idleMessage=15%20year%20old%20solo%20dev" al/> 
-</p>
-
-# Preview of text responses:
-
-![image](https://i.imgur.com/MdfzY9C.png)
-
-![image](https://i.imgur.com/AMnx8a9.png)
-
-# Preview of Analyse command:
-
-![image](https://i.imgur.com/rn4Ru09.png)
-
 > Note: This analysis is based on the user's message history and is not 100% accurate. It is just for fun and should not be taken seriously.
 
 # Features
@@ -119,13 +104,3 @@ To change the personality of the bot and set custom instructions, simply go into
 # Support + Try out the bot!
 
 I probably won't be accepting friend requests so if you have any questions or require help, join a quick Discord server I put together and ask in there! (You can leave after getting help, or stick around if you want!)
-
-You can also try out this project in this server, in the [#italiano](https://discord.com/channels/1269313927150309491/1270821127001866311) channel! Click the image below to join.
-
-[![Discord Banner 2](https://discord.com/api/guilds/1269313927150309491/widget.png?style=banner2)](https://discord.gg/yUWmzQBV4P)
-
-# Donate
-
-If you're feeling rich and grateful, feel free to donate by clicking this button!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E1Q7XEZ)
